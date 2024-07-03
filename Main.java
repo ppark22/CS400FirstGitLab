@@ -1,5 +1,6 @@
 /*
  * Test the use of the Color method
+ * Philip Park, ppark22@wisc.edu, ppark
  */
 import java.util.*;
 

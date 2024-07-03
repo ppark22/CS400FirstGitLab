@@ -1,5 +1,6 @@
 /*
  *	Color class
+ *	Philip Park, park22@wisc.edu, ppark
  */
 public class Color{
 	private String color;
